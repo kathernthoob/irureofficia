@@ -1,0 +1,1 @@
+addClass(...classNames: string[]): void;
